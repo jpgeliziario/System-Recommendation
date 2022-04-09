@@ -1,2 +1,2 @@
 # System-Recommendation
-Using item based content and client content to recommend a product to clients. 
+Using item based content and client based content to recommend products to clients. 
